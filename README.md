@@ -11,5 +11,5 @@ manifest_version: 此套件的開發版本。\
 background: 需要在背景執行的js所在位置。擴充套件在執行點與內容上可大致分為background script & content script 此套件需不斷執行所以以background為主。\
 action: 設置點擊icon時的行為。\
 icon: 顯示在瀏覽器上的插件圖示。https://favicon.io/ \
-permissions: 此套件所需要用到的瀏覽器權限。官方權限清單 https://developer.chrome.com/docs/extensions/reference/#stable_apis \
+permissions: 此套件所需要用到的瀏覽器權限。官方權限清單 https://developer.chrome.com/docs/extensions/reference/#stable_apis
 
