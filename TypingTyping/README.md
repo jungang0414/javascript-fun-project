@@ -20,4 +20,6 @@
 # 難度設定
 
 1. 監聽並使用CSS 隱藏或顯示
-2. 儲存使用者所選 localStorage
+2. 儲存使用者所選 localStorage \
+
+https://ithelp.ithome.com.tw/articles/10300149
