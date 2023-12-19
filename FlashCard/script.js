@@ -28,6 +28,8 @@ const dummyData = [
     },
 ];
 
+localStorage.setItem("cards", JSON.stringify(dummyData));
+
 //localStorage取出資料
 const cardsData = getCardData();
 
